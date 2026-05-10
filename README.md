@@ -7,12 +7,12 @@ Language Used:
 Python
 
 Libraries Used:
-Tkinter
-
-Files:
-Chatbot using GUI.py
-
-Libraries Used:
 tkinter
 pandas
 rapidfuzz
+
+File:
+ChatBot using GUI.py
+
+How to Use:
+Download the Python file and run it in a Python editor such as PyCharm or VS Code.
